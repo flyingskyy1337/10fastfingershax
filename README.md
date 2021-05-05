@@ -12,8 +12,32 @@ But where do I paste it you ask? In the Developer Tools (CMD+Opt+I or Win+Alt+I)
 with 10ff.net or 10fastfingers.com, the codes are different so they don't work on for example 10ff code into 10fastfingers, or
 10fastfingers code to 10ff.net
 
-# Where are the codes.
+# Codes.
 
-Go to haCkS.js and select which code do you use for 10ff or 10fastfingers.
+```javascript
+var input = $('#inputfield')[0]
+var ev = $.Event('keyup')
+ev.which = 32
+setInterval(function() {
+    if ($('.highlight')[0]) {
+        input.focus()
+        input.value = $('.highlight').text()
+        $(input).trigger(ev)
+    }
+}, 100)
+```
+
+```javascript
+const highlight = document.getElementsByClassName("highlight");
+const input = document.getElementsByTagName("input")[0];
+const event = new InputEvent("input", {data: "k"});
+
+setInterval(() => {
+    if (highlight.length > 0) {
+        input.value = highlight[0].innerText + " ";
+        input.dispatchEvent(event)
+    }
+});
+```
 
 # 2k21 flyingskyy
