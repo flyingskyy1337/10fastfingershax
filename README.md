@@ -47,5 +47,5 @@ WATCH OUT FOR THE ANTI CHEAT.
 
 
 # HAX IN ACTION
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/flyingskyy1337/10fastfingershax/main/2021-05-05%2016-26-41.gif"/>
+<img src="https://raw.githubusercontent.com/flyingskyy1337/10fastfingershax/main/2021-05-05%2016-27-24(1)%20(online-video-cutter.com).gif"/>
