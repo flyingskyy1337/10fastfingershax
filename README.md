@@ -14,6 +14,7 @@ with 10ff.net or 10fastfingers.com, the codes are different so they don't work o
 
 # Codes.
 
+10FASTFINGERS.COM CODE
 ```javascript
 var input = $('#inputfield')[0]
 var ev = $.Event('keyup')
@@ -27,6 +28,7 @@ setInterval(function() {
 }, 100)
 ```
 
+10FF.NET CODE
 ```javascript
 const highlight = document.getElementsByClassName("highlight");
 const input = document.getElementsByTagName("input")[0];
