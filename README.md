@@ -28,7 +28,7 @@ setInterval(function() {
 }, 100)
 ```
 
-10FF.NET CODE
+
 ```javascript
 const highlight = document.getElementsByClassName("highlight");
 const input = document.getElementsByTagName("input")[0];
@@ -47,7 +47,7 @@ WATCH OUT FOR THE ANTI CHEAT.
 
 
 # HAX IN ACTION
-10FF.net HACK
 <img src="https://raw.githubusercontent.com/flyingskyy1337/10fastfingershax/main/2021-05-05%2016-26-41.gif"/>
-10FASTFINGERS.com HACK
+^^ 10FF.net HACK
 <img src="https://raw.githubusercontent.com/flyingskyy1337/10fastfingershax/main/2021-05-05%2016-27-24(1)%20(online-video-cutter.com).gif"/>
+^^ 10FASTFINGERS.com HACK
