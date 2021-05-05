@@ -28,6 +28,7 @@ setInterval(function() {
 }, 100)
 ```
 
+10FF.NET CODE
 
 ```javascript
 const highlight = document.getElementsByClassName("highlight");
